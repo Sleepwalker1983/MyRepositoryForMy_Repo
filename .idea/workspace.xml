@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39662726-79bc-41e0-85a2-9ff7e4478031" name="Changes" comment="Перший коміт на gitHub">
+    <list default="true" id="39662726-79bc-41e0-85a2-9ff7e4478031" name="Changes" comment="Коміт на gitHub">
+      <change afterPath="$PROJECT_DIR$/github-info.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,11 +11,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sleepwalker1983&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sleepwalker1983/MyRepositoryForMy_Repo.git&quot;,
+    &quot;accountId&quot;: &quot;d148a47c-d861-47a5-b796-231dfe11e858&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3FV767Yr5HS5BZrNQbOqIfw3tia" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,7 +44,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/github-info",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -85,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782162008107</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Коміт на gitHub">
+      <option name="closed" value="true" />
+      <created>1782162991971</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782162991971</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -94,6 +120,7 @@
     <MESSAGE value="Окремий коміт для project-notes.txt" />
     <MESSAGE value="Окремий коміт для .gitignore" />
     <MESSAGE value="Перший коміт на gitHub" />
-    <option name="LAST_COMMIT_MESSAGE" value="Перший коміт на gitHub" />
+    <MESSAGE value="Коміт на gitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Коміт на gitHub" />
   </component>
 </project>
